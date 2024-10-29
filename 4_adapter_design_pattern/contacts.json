@@ -1,0 +1,11 @@
+{
+"contacts": [
+  {"full_name": "amol Shah", "email": "amok@gd232.com",
+    "phone_no": "434322424234", "isFriend": true}
+  ,
+   {"full_name": "Zakir Shah", "email": "zakir@gd232.com",
+    "phone_no": "434322424234", "isFriend": true},
+   {"full_name": "Syad Shah", "email": "sayad@gd232.com",
+    "phone_no": "434322424234", "isFriend": false}
+]
+}

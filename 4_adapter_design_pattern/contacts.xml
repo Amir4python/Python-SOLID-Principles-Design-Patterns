@@ -1,0 +1,14 @@
+<contacts>
+    <contact>
+        <full_name>Amir Shah</full_name>
+        <email>amir@gd232.com</email>
+        <phone_no>434322424234</phone_no>
+        <is_friend>ture</is_friend>
+    </contact>
+        <contact>
+        <full_name>Ateeb Shah</full_name>
+        <email>ateeb@gd232.com</email>
+        <phone_no>324243243242</phone_no>
+        <is_friend>false</is_friend>
+    </contact>
+</contacts>

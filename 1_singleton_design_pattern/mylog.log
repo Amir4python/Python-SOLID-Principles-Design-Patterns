@@ -1,0 +1,20 @@
+2024-07-15 11:21:07,276 - myLogger - DEBUG - this is debug message
+2024-07-15 11:21:07,277 - myLogger - INFO - this is info message
+2024-07-15 11:21:07,277 - myLogger - WARNING - this is warning message
+2024-07-15 11:21:07,277 - myLogger - CRITICAL - critical message
+2024-07-15 11:31:17,348 - myLogger - DEBUG - this is debug message
+2024-07-15 11:31:17,349 - myLogger - INFO - this is info message
+2024-07-15 11:31:17,349 - myLogger - WARNING - this is warning message
+2024-07-15 11:31:17,349 - myLogger - CRITICAL - critical message
+2024-07-15 15:15:17,527 - myLogger - DEBUG - this is debug message
+2024-07-15 15:15:17,527 - myLogger - INFO - this is info message
+2024-07-15 15:15:17,527 - myLogger - WARNING - this is warning message
+2024-07-15 15:15:17,528 - myLogger - CRITICAL - critical message
+2024-07-15 15:50:10,936 - myLogger - DEBUG - this is debug message
+2024-07-15 15:50:10,936 - myLogger - INFO - this is info message
+2024-07-15 15:50:10,936 - myLogger - WARNING - this is warning message
+2024-07-15 15:50:10,937 - myLogger - CRITICAL - critical message
+2024-07-15 16:11:26,716 - myLogger - DEBUG - this is debug message
+2024-07-15 16:11:26,716 - myLogger - INFO - this is info message
+2024-07-15 16:11:26,716 - myLogger - WARNING - this is warning message
+2024-07-15 16:11:26,716 - myLogger - CRITICAL - critical message
